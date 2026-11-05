@@ -59,7 +59,7 @@ The study's contribution is twofold: it characterizes the information and uncert
 
 ### About this repository
 
-This repository contains a bilingual introduction based on the version 10 manuscript and Supporting Information. Its sole content file is this README; the manuscript, analysis code, and datasets are maintained separately.
+Related data and analysis code will be released progressively after the paper is accepted.
 
 ## 中文
 
@@ -117,4 +117,4 @@ This repository contains a bilingual introduction based on the version 10 manusc
 
 ### 关于本仓库
 
-本仓库依据第10版论文正文与补充材料编写中英双语介绍，唯一内容文件为本README。论文、分析代码和数据另行管理。
+相关数据、分析代码将会在接收后逐步开放。
